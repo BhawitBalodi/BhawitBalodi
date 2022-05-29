@@ -1,6 +1,6 @@
 # Hey there! <img height=40 src="https://github.com/samitkapoor/samitkapoor/blob/main/assets/images/wave.gif"/> I am 📛 Bhawit Balodi
 
-
+-------------------
 
 <h3 align="left">A passionate student from India.</h3>
 <br>
@@ -16,10 +16,6 @@
   - 🤗 Talk to me about anything!
 
 ------------------
-  
-
-
-------------------
 
 ### 🔥 Interested in -
 
@@ -29,12 +25,9 @@
 - 🎬 Video and Photo Editing<br>
 - 📸 Photography<br>
 - 🏸 Badminton
-
-
-
-
  
-  
+---------------------- 
+ 
 <a href="https://twitter.com/bhawitb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhawitb" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bhawit-balodi-106632208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhawit-balodi-106632208/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucxbjzyzt1gnvcdbir-t44eg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucxbjzyzt1gnvcdbir-t44eg" height="30" width="40" /></a>
