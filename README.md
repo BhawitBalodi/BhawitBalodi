@@ -34,7 +34,7 @@
 
 ### 🔥 Interested in -
 
-<img height=150 src="https://user-images.githubusercontent.com/77121931/167949285-0531ce88-9c28-4d15-8694-4474ea9f2546.gif" /><img height=150 src="https://user-images.githubusercontent.com/82761457/170856331-86c85972-297a-4300-b6ab-df0b69f41f94.gif" /><img height=150 src="https://user-images.githubusercontent.com/82761457/170856609-1391f873-ade5-4233-9cdf-036430dc3558.gif" /><img height=150 src="https://user-images.githubusercontent.com/77121931/168080879-6769521c-a90a-4202-8715-d5fe6efc7429.gif" /><img height=150 src="https://user-images.githubusercontent.com/77121931/168081622-ff09779c-b413-4cc9-8967-8f40ffe05da8.gif" />
+<img height=150 src="https://user-images.githubusercontent.com/77121931/167949285-0531ce88-9c28-4d15-8694-4474ea9f2546.gif" /><img height=150 src="https://user-images.githubusercontent.com/82761457/170856331-86c85972-297a-4300-b6ab-df0b69f41f94.gif" /><img height=150 src="https://user-images.githubusercontent.com/82761457/170856676-e413a4de-35f6-4b56-a991-747c7465f4b2.gif" /><img height=150 src="https://user-images.githubusercontent.com/77121931/168080879-6769521c-a90a-4202-8715-d5fe6efc7429.gif" />
 
 - 💻 Programming<br>
 - 🎬 Video and Photo Editing<br>
@@ -47,7 +47,7 @@
 
 <p align="left">
   <a href="https://github.com/Platane/snk#readme">
-    <img src="https://raw.githubusercontent.com/samitkapoor/samitkapoor/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/BhawitBalodi/BhawitBalodi/output/github-snake-dark.svg" />
   </a>
 </p>     
 <br>
