@@ -34,7 +34,7 @@
 
 ### 🔥 Interested in -
 
-<img height=150 src="https://user-images.githubusercontent.com/77121931/167949285-0531ce88-9c28-4d15-8694-4474ea9f2546.gif" /><img height=150 src="https://user-images.githubusercontent.com/82761457/170856331-86c85972-297a-4300-b6ab-df0b69f41f94.gif" /><img height=150 src="https://userimages.githubusercontent.com/82761457/170856489-24c2f400-bf69-4fe3-ab41-68bd30d84906.gif" /><img height=150 src="https://user-images.githubusercontent.com/77121931/168080879-6769521c-a90a-4202-8715-d5fe6efc7429.gif" /><img height=150 src="https://user-images.githubusercontent.com/77121931/168081622-ff09779c-b413-4cc9-8967-8f40ffe05da8.gif" />
+<img height=150 src="https://user-images.githubusercontent.com/77121931/167949285-0531ce88-9c28-4d15-8694-4474ea9f2546.gif" /><img height=150 src="https://user-images.githubusercontent.com/82761457/170856331-86c85972-297a-4300-b6ab-df0b69f41f94.gif" /><img height=150 src="https://user-images.githubusercontent.com/82761457/170856609-1391f873-ade5-4233-9cdf-036430dc3558.gif" /><img height=150 src="https://user-images.githubusercontent.com/77121931/168080879-6769521c-a90a-4202-8715-d5fe6efc7429.gif" /><img height=150 src="https://user-images.githubusercontent.com/77121931/168081622-ff09779c-b413-4cc9-8967-8f40ffe05da8.gif" />
 
 - 💻 Programming<br>
 - 🎬 Video and Photo Editing<br>
