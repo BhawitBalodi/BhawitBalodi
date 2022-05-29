@@ -5,11 +5,7 @@
 <h3 align="left">A passionate student from India.</h3>
 <br>
 
-[![Flutter](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)]([https://www.hackerrank.com/samitkapoor77?hr_r=1](https://www.hackerrank.com/bhawitbalodi))
-[![Flutter](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)]((https://leetcode.com/bhawitbalodi/))
-[![Flutter](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/bhawit-balodi-106632208/))
-[![Flutter](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=samitkapoor77@gmail.com&tf=cm)
-<br>
+
 
 <img height=300 src="https://user-images.githubusercontent.com/77121931/168066191-076e7dc6-212c-4465-a7d0-ff44e23a4d70.gif" /><img height=300 align="right" src="https://user-images.githubusercontent.com/77121931/168083944-913d2267-5134-4a86-b242-8147d6a2f0a6.gif"/>
 <br>
@@ -47,7 +43,7 @@
 
 <p align="left">
   <a href="https://github.com/Platane/snk#readme">
-    <img src="https://raw.githubusercontent.com/BhawitBalodi/BhawitBalodi/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/samitkapoor/samitkapoor/output/github-snake-dark.svg" />
   </a>
 </p>     
 <br>
