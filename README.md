@@ -7,7 +7,7 @@
 
 
 
-<img height=300 src="https://user-images.githubusercontent.com/77121931/168066191-076e7dc6-212c-4465-a7d0-ff44e23a4d70.gif" /><img height=300 align="right" src="https://user-images.githubusercontent.com/77121931/168083944-913d2267-5134-4a86-b242-8147d6a2f0a6.gif"/>
+<img height=300 src="https://user-images.githubusercontent.com/77121931/168066191-076e7dc6-212c-4465-a7d0-ff44e23a4d70.gif"/><img height=300 align="right" src="https://user-images.githubusercontent.com/77121931/168083944-913d2267-5134-4a86-b242-8147d6a2f0a6.gif"/>
 <br>
 
 - 🔭 Currently working on Machine Learning and C++
