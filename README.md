@@ -1,4 +1,4 @@
-# Hey there! <img height=40 src="https://github.com/samitkapoor/samitkapoor/blob/main/assets/images/wave.gif"/> I am 📛 Bhawit Balodi
+# Hey there! I am 📛 Bhawit Balodi
 
 -------------------
 
@@ -7,11 +7,11 @@
 
 
 
-<img height=300 src="https://user-images.githubusercontent.com/77121931/168066191-076e7dc6-212c-4465-a7d0-ff44e23a4d70.gif"/><img height=300 align="right" src="https://user-images.githubusercontent.com/77121931/168083944-913d2267-5134-4a86-b242-8147d6a2f0a6.gif"/>
+<img height=300 width =500 src="https://user-images.githubusercontent.com/77121931/168066191-076e7dc6-212c-4465-a7d0-ff44e23a4d70.gif"/>
 <br>
 
-- 🔭 Currently working on Machine Learning and C++
-- 🔰 Currently learning Deep Learning
+- 🔭 Currently working as Data Scientist Intern at Ameriprise Financial Lmt. 
+- 🔰 Currently learning Data Science, Deep Learning and Decision Science.
 - 👀 Constantly looking for projects to work on <br>
   - 🤗 Talk to me about anything!
 
